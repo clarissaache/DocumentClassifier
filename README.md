@@ -1,4 +1,4 @@
-# DocumentClassifier
+# NLP Tools: DocumentClassifier
 
 In this project, we categorize research papers based on their abstract into one of the seven domains from Mechanical Engineering (MAE), Computer Science(CS), Electrical Engineering(ECE), Medical, Biochemistry, Civil, and Psychology.
 <br>
